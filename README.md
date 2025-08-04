@@ -1,4 +1,4 @@
-# MCP (Model Control Protocol) Project
+# MCP (Model Context Protocol) Project
 
 A simple JavaScript project demonstrating a client-server architecture with mathematical tools.
 
